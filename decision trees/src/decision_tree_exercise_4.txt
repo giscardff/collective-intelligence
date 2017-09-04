@@ -1,0 +1,16 @@
+slashdot	USA	yes	18	None
+google	null	yes	23	Premium
+digg	null	yes	24	Basic
+kiwitobes	null	yes	23	Basic
+google	null	no	21	Premium
+(direct)	null	no	12	None
+(direct)	null	no	21	Basic
+google	null	no	24	Premium
+slashdot	null	yes	19	None
+digg	null	no	18	None
+google	null	no	null	None
+kiwitobes	null	no	19	None
+digg	null	yes	12	Basic
+slashdot	null	no	21	None
+google	null	yes	18	Basic
+kiwitobes	France	yes	19	Basic
